@@ -1,3 +1,11 @@
+'''
+Constantes e configurações, como:
+- tamanho do grid,
+- cores usadas,
+- formato das peças e
+- pontuação
+'''
+
 import pygame
 
 # GAME SIZE
